@@ -1,0 +1,13 @@
+Sales Analysis using SQL 
+
+Description:  
+• Designed and implemented a relational database to store and manage sales data, ensuring data integrity and 
+efficient query performance. 
+• Sales Data Analysis: Developed and optimized SQL queries to perform comprehensive sales analysis, including daily 
+sales trends, branch performance, and identification of top-selling days 
+• Customer data analysis: Analyzed customer segments through SQL queries, focusing on gender-based purchasing 
+behavior and customer type contributions, which informed targeted marketing strategies. 
+• Product Line Performance Analysis: Evaluated product line performance through SQL-based analysis, identifying 
+high-revenue products and calculating gross income and profitability margins. 
+
+Technology: MySQL Workbench 
